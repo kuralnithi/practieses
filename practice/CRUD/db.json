@@ -1,0 +1,34 @@
+[
+  {
+    "name": "kural",
+    "job": "webddeveloper",
+    "age": "24",
+    "id": 1
+  },
+  {
+    "name": "pasam",
+    "job": "EEE",
+    "age": "28",
+    "id": 2
+  },
+  {
+    "name": "nithi",
+    "job": "DSP",
+    "age": "23",
+    "id": 3
+  },
+  {
+    "name": "periyar",
+    "job": "politics",
+    "age": "93",
+    "id": 4
+  },
+  {
+
+    "name": "Karl",
+    "job": "politics",
+    "age": "64",
+    "id": 5
+  
+  }
+]
